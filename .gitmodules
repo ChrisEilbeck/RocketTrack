@@ -1,0 +1,6 @@
+[submodule "RocketTrackBeacon"]
+	path = RocketTrackBeacon
+	url = https://github.com/ChrisEilbeck/RocketTrackBeacon.git
+[submodule "RocketTrackReceiver"]
+	path = RocketTrackReceiver
+	url = https://github.com/ChrisEilbeck/RocketTrackReceiver.git
